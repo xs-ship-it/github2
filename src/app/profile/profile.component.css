@@ -1,0 +1,17 @@
+.container-fluid{
+    background-color: black;
+    color:white;
+    }
+    h3{
+     color:white;
+    }
+    h2{color:white;}
+    .heading{
+        text-align: center;
+    }
+    .repositories{
+        text-align: center;
+    }
+    .semi-heading{
+        text-align: center;
+    }
